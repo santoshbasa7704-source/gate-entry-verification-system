@@ -37,3 +37,5 @@ visitors.db
 # Visitor uploaded photos
 backend/uploads/
 **/uploads/
+# Backup folder
+backend copy/
